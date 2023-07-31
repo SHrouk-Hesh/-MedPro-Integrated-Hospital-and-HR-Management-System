@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MyProject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="MyProject" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="bed1.cpp" />
+		<Unit filename="bed1.h" />
+		<Unit filename="doctor1.cpp" />
+		<Unit filename="doctor1.h" />
+		<Unit filename="main1.cpp" />
+		<Unit filename="password1.cpp" />
+		<Unit filename="password1.h" />
+		<Unit filename="patient1.cpp" />
+		<Unit filename="patient1.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
